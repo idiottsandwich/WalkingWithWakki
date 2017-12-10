@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "119185639882",
+    "firebase_url": "https://walkingwithwakki.firebaseio.com",
+    "project_id": "walkingwithwakki",
+    "storage_bucket": "walkingwithwakki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119185639882:android:2324ffc3ac4e119d",
+        "android_client_info": {
+          "package_name": "pbain.bu.edu.ec327project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119185639882-lhvf63tphhj6sqiu1aq3ge0np6tfgfc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pbain.bu.edu.ec327project",
+            "certificate_hash": "74aca72106f6b9bdf39b63d89a8d473ce49694ba"
+          }
+        },
+        {
+          "client_id": "119185639882-omltvqmqlus9t6h30p9bd7i4vr8c576p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6PJxWW3BPIbFqUUD4Fmky2gkc9AizYbI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119185639882-omltvqmqlus9t6h30p9bd7i4vr8c576p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
